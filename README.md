@@ -165,17 +165,3 @@ Ideas to explore:
 
 ```
 
----
-
-### ✅ What You Need to Do
-
-1. Place your screenshots in the same folder as:
-   - `1d_plot.png`
-   - `3d_plot.png`
-
-2. Save this content into a `README.md` file.
-
-3. That’s it — your project is now super clean and beginner-friendly!
-
-Let me know if you want me to generate this as a file or turn it into a GitHub template!
-```
