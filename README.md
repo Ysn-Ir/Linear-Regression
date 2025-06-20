@@ -58,7 +58,7 @@ pip install numpy pandas matplotlib
 ### ▶️ How to Run
 
 ```bash
-python 1d_linear_regression.py
+python linear_regression.py
 ```
 
 ### 📷 Output
@@ -103,7 +103,7 @@ pip install numpy matplotlib
 ### ▶️ How to Run
 
 ```bash
-python 3d_linear_regression.py
+python linear_regression_n.py
 ```
 
 ### 📷 Output
